@@ -16,3 +16,5 @@ function resetFilterBtns(){
     $(this).removeClass('active-filter-btn');
   });
 }
+
+
